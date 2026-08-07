@@ -135,11 +135,11 @@
         compatible = "zmk,keymap";
         layer_Base {
             bindings = <
-            &kp ESC  &kp N1     &kp N2   &kp N3    &kp N4  &kp N5                                                      &kp N6    &kp N7     &kp N8    &kp N9    &kp N0           &kp MINUS
-              &kp TAB   &kp Q      &kp F    &kp U     &kp DOT   &kp L                                                       &kp B   &kp R     &kp Y      &kp H     &kp J      &kp BSPC
-              &kp LCTRL   &kp E      &kp I    &kp A     &kp O   &kp MINUS                                                   &kp W   &kp T     &kp N      &kp K     &kp S      &kp ENTER
- &kp LSHFT   &kp X      &kp C    &kp V     &kp COMMA   &kp SLASH                                                            &kp P   &kp D     &kp M      &kp G     &kp Z      &kp RSHFT
-                               &tog QWE  &kp LGUI  &kp LALT                                                                      &kp RALT   &kp RGUI  &kp LANG_ZENKAKUHANKAKU
+            &kp ESC  &kp N1     &kp N2   &kp N3    &kp N4  &kp N5                                                      &tog QWE    &kp N7     &kp N8    &kp N9    &kp N0           &kp BSPC
+              &kp TAB   &kp Q      &kp W    &kp U     &kp DOT   &kp L                                                       &kp P   &kp B     &kp Y      &kp H     &kp J      &kp BSPC
+              &kp LCTRL   &kp E      &kp I    &kp A     &kp O   &kp COMMA                                                   &kp R   &kp T     &kp N      &kp K     &kp S      &kp ENTER
+ &kp LSHFT   &kp X      &kp C    &kp V     &kp MINUS   &kp SLASH                                                            &kp F   &kp D     &kp M      &kp G     &kp Z      &kp RSHFT
+                               &kp LGUI  &kp LGUI  &kp LALT                                                                      &kp RALT   &kp RGUI  &kp LANG_ZENKAKUHANKAKU
                                                      &kp LANG_ZENKAKUHANKAKU  &mo NUM  &kp SPACE     &mo SYM    &mo NAV  &kp BSPC
             >;
         };
