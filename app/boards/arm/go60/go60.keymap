@@ -139,8 +139,8 @@
               &kp TAB   &kp Q      &kp W    &kp U     &kp DOT   &kp L                                                       &kp P   &kp B     &kp Y      &kp H     &kp J      &kp BSPC
               &kp LCTRL   &kp E      &kp I    &kp A     &kp O   &kp COMMA                                                   &kp R   &kp T     &kp N      &kp K     &kp S      &kp ENTER
  &kp LSHFT   &kp X      &kp C    &kp V     &kp MINUS   &kp SLASH                                                            &kp F   &kp D     &kp M      &kp G     &kp Z      &kp RSHFT
-                               &kp LGUI  &kp LGUI  &kp LALT                                                                      &kp RALT   &kp RGUI  &kp LANG_ZENKAKUHANKAKU
-                                                     &kp LANG_ZENKAKUHANKAKU  &mo NUM  &kp SPACE     &mo SYM    &mo NAV  &kp BSPC
+                               &kp LGUI  &kp LGUI  &kp LALT                                                                      &kp RALT   &kp RGUI  &kp JP_HANZEN
+                                                     &kp JP_HANZEN  &mo NUM  &kp SPACE     &mo SYM    &mo NAV  &kp BSPC
             >;
         };
 
